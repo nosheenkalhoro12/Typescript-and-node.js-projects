@@ -1,0 +1,26 @@
+{
+  "name": "@nosheen/fblbank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.6.4"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@faker-js/faker": "^8.1.0",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11",
+    "node-banner": "^1.4.0",
+    "ora": "^7.0.1"
+  }
+}
